@@ -27,5 +27,6 @@ sudo apt install gh
 
 ``` 
 
+https://cli.github.com/manual/ 
 
 
