@@ -1,0 +1,6 @@
+Host kimono-bsd
+  Hostname 134.209.87.168  
+  User root
+Host kimono-ubuntu
+  Hostname 138.68.191.223   
+  user root
