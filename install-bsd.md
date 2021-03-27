@@ -40,6 +40,14 @@ plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
 ```
 
 
+# github CLI
+generate a PAT (personal access token ) in github
+
+```sh
+pkg install gh 
+gh auth login
+
+```
 
 
 
