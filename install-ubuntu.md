@@ -29,4 +29,8 @@ sudo apt install gh
 
 https://cli.github.com/manual/ 
 
+# Font Manager
+```sh
+sudo apt install font-manager
 
+```
