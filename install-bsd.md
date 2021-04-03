@@ -44,6 +44,8 @@ plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
 generate a PAT (personal access token ) in github
 
 ```sh
+cd /usr/ports/devel/gh/ && make install clean
+
 pkg install gh 
 gh auth login
 

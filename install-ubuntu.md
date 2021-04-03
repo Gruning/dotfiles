@@ -27,7 +27,7 @@ sudo apt install gh
 
 ``` 
 
-https://cli.github.com/manual/ 
+https://cli.githucb.om/manual/ 
 
 # Font Manager
 ```sh
