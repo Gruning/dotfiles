@@ -1,3 +1,14 @@
+# Packages
+```sh
+sudo apt install git
+sudo apt install vim
+```
+
+# Snap
+```sh
+sudo snap install code --classic
+
+```
 # Jupyter Notebooks 
 ```sh 
 cd source/virtual 
