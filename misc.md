@@ -11,3 +11,9 @@ sudo systemctl start tlp
 
 sudo systemctl status tlp 
 ```
+
+# sway
+show the menu bar
+```sh
+waybar -b default &
+```
