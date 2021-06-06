@@ -13,3 +13,12 @@ _Most bluetooth devices are connected to your PC to use as Multimedia device (So
 	
     sudo systemctl restart bluetooth
 ```
+
+1. Install Discover package manager
+
+```
+sudo pacman -Syu packagekit-qt5
+
+sudo pacman -S discover
+
+```
