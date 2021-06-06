@@ -22,3 +22,22 @@ sudo pacman -Syu packagekit-qt5
 sudo pacman -S discover
 
 ```
+1. install Snaps
+```
+sudo pacman -Syu base-devel
+
+git clone https://aur.archlinux.org/snapd.git
+cd snapd 
+makepkg -si
+
+sudo systemctl enable --now snapd.socket
+sudo ln -s /var/lib/snapd/snap /snap
+sudo snap install hello-worldsudo systemctl enable --now snapd.socket
+sudo ln -s /var/lib/snapd/snap /snap
+sudo snap install hello-worldsudo systemctl enable --now snapd.socket
+sudo ln -s /var/lib/snapd/snap /snap
+sudo snap install hello-worldsudo systemctl enable --now snapd.socket
+sudo ln -s /var/lib/snapd/snap /snap
+sudo snap install hello-world
+
+```
